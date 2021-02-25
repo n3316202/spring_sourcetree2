@@ -1,4 +1,4 @@
-//����
+//µð¹ë¶ø
 package edu.bit.ex;
 
 import java.text.DateFormat;
@@ -12,8 +12,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//#3
-//#2
+//서버에서 
 @Controller
 public class BoardController {
 	
