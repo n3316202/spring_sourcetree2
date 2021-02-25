@@ -36,6 +36,6 @@ public class HomeController {
 		return "home";
 	}
 	
-	//
+	//마스트 
 	
 }
