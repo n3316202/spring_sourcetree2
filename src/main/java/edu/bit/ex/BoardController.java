@@ -1,3 +1,4 @@
+//µð¹ë¶ø
 package edu.bit.ex;
 
 import java.text.DateFormat;
@@ -50,5 +51,5 @@ public class BoardController {
 		return "home";
 	}
 	
-	//
+
 }
