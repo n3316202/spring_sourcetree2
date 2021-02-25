@@ -11,14 +11,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-<<<<<<< HEAD
-@Controller//
-=======
-//#4 //¼öÁ¤
-//#3
-//#2
 @Controller
->>>>>>> develop
 public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
